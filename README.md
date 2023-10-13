@@ -32,4 +32,10 @@ This project included 3 parts:
 5. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
       - **_Note_**: Need to use the aggregation method to answer this. 
         
-**The first 5 rows of the resulting DataFrame look like this:**
+**The first 5 rows of the resulting DataFrame look like this:**\
+![image](https://github.com/lakigit/nosql-challenge/assets/138610916/9b3e184a-7389-431d-9aa0-b292df44260e)
+
+# Code Files:
+- [NoSQL_setup.ipynb](https://github.com/lakigit/nosql-challenge/blob/main/NoSQL_setup.ipynb)
+- [NoSQL_analysis.ipynb](https://github.com/lakigit/nosql-challenge/blob/main/NoSQL_analysis.ipynb)
+       
